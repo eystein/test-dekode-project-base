@@ -14,7 +14,7 @@
 		"@teft/wordpress": "^0.4.0"
 	},
 	"devDependencies": {
-		"@dekode/stylelint-config": "1.0.1",
+		"@dekode/stylelint-config": "1.0.2",
 		"@wordpress/eslint-plugin": "9.1.1",
 		"@wordpress/scripts": "18.0.0",
 		"autoprefixer": "10.3.4",
