@@ -20,7 +20,7 @@
 		"autoprefixer": "10.3.4",
 		"browser-sync": "^2.27.5",
 		"browser-sync-webpack-plugin": "^2.3.0",
-		"cssnano": "5.0.8",
+		"cssnano": "5.1.12",
 		"dotenv": "^10.0.0",
 		"fast-glob": "3.2.7",
 		"ignore-emit-webpack-plugin": "2.0.6",
